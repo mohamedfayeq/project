@@ -1,0 +1,10 @@
+{
+    "name": "mada/project",
+    "authors": [
+        {
+            "name": "mohammed omar",
+            "email": "madaezz53@gmail.com"
+        }
+    ],
+    "require": {}
+}
